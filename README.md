@@ -2,7 +2,7 @@
 
 Brief description
 
-This repository contains VHDL source files and Block Diagram Files (BDF) for Project 2 of CS232. The project implements two small HDL tasks used in the course:
+This repository contains VHDL source files and Block Diagram Files (BDF). The project implements two small HDL tasks used in the course:
 
 - task1: A seven-segment hex display system (and a testbench) using a 4-bit input -> 7-seg decoder and an Altera LPM counter component for scanning.
 - task2: A simple 4-bit adder (two 4-bit unsigned inputs producing a 5-bit sum).
@@ -52,16 +52,3 @@ Notes and assumptions
 
 - These files were authored in Quartus (Altera / Intel FPGA tools) and include the Altera `lpm` component; simulation of megafunctions may require vendor simulation libraries.
 - The BDF files are Quartus Block Diagram Files — do not edit them with a text editor if you intend to continue editing them in the Quartus Block Editor (they can be large and are best handled inside the tool).
-
-Author
-
-- Christian Okyere
-
-License
-
-- Feel free to add a license of your choice. For convenience, include an appropriate license file (e.g., MIT) if you plan to publish the repo on GitHub.
-
-If you want, I can:
-- Add a small ModelSim test script that compiles the needed files and runs the testbench.
-- Add a short `LICENSE` (MIT) and a brief CONTRIBUTING note.
-
