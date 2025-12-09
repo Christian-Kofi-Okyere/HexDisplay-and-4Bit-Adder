@@ -1,4 +1,4 @@
-# CS232 — Project 2 (Christian Okyere)
+# Hex Display and 4 Bit Adder
 
 Brief description
 
